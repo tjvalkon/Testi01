@@ -1,4 +1,10 @@
-Worker bees can leave home. ----------
-Worker bees can leave. tästä tulee konflikti!
+﻿Worker bees can leave home. ----------
+
+Worker bees can leave home. XXX
+
+Worker bees can leave. 
+tulee konflikti!
+
 Even drones can fly away.
+
 The Queen is their slave.
