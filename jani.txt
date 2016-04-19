@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Worker bees can leave home.
+=======
+Worker bees can leave. tästä tulee konflikti!
+>>>>>>> 14be5edd0b284f13d9d821e3f28b4da12722b3ef
 Even drones can fly away.
 The Queen is their slave.
 
