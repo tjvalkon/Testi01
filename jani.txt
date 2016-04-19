@@ -1,5 +1,4 @@
-﻿Worker bee leaves home. ----------
-
+﻿Worker bees can leave home. +++++++++++
 Worker bees can leave home. XXX
 
 Worker bees can leave. 
